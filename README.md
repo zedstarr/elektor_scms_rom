@@ -5,3 +5,4 @@ More details at:
 
 https://zedstarr.com/2021/02/07/minidisc-bit-stripper-the-elektor-scms-killer/
 
+C, tcl & Python code to re-create the binary ROM image contained in th eZIP file at https://github.com/zedstarr/elektor_scms_rom/blob/main/elektor_scms_rom.zip
