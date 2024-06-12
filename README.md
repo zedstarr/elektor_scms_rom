@@ -1,5 +1,5 @@
 # elektor_scms_rom
-Source to recreate the binary ROM file used in the 1997/8 "Simple Copybit Killer" article from https://www.elektormagazine.com/magazine/elektor-199807/34180
+Dump of ROM and source to recreate the binary ROM file used in the 1997/8 "Simple Copybit Killer" article from https://www.elektormagazine.com/magazine/elektor-199807/34180
 
 More details at:
 
